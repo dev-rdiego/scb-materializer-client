@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SimCity BuildIt Materializer
 
-## Getting Started
+Welcome to SimCity BuildIt Materializer, a powerful tool for calculating and managing raw materials required for crafting in SimCity BuildIt.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Calculate material requirements for any crafted item in SimCity BuildIt.
+- Efficiently manage and plan your resources for optimal crafting output.
+- Intuitive interface for easy navigation and quick calculations.
+- Stay organized with detailed breakdowns of materials, quantities and total time needed.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to Use
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<!-- TODO: Complete documentation on "How to use" -->
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contribution Guidelines
 
-## Learn More
+We welcome contributions from the community! Whether you're a developer, designer, or SimCity enthusiast, feel free to contribute by submitting bug reports, feature requests, or code enhancements.
 
-To learn more about Next.js, take a look at the following resources:
+To contribute:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/[name]`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature/[name]`.
+5. Open a pull request.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Hosted
 
-## Deploy on Vercel
+<!-- 
+    TODO: Host app when v1.0 is released
+The SimCity BuildIt Materializer is hosted [here!](https://your-hosted-url.com). Feel free to visit and use the application online. -->
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Roadmap
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Our planned features and improvements for the future include:
+
+- ### Task Planning Center
+
+    Effortlessly manage your to-do lists and tasks in one place. Streamline your day with our intuitive Task Hub feature, designed for seamless organization and productivity.
+
+- ### Special Objects Supoort
+
+    Support for items that include airport or antoher lands items.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [SimCity BuildIt](https://www.ea.com/en-gb/games/simcity/simcity-buildit) - Base game for city-building and crafting management.
+
+Happy crafting in SimCity BuildIt with SimCity BuildIt Materializer!
