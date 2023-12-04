@@ -2,6 +2,8 @@
 
 Welcome to SimCity BuildIt Materializer, a powerful tool for calculating and managing raw materials required for crafting in SimCity BuildIt.
 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 ## Features
 
 - Calculate material requirements for any crafted item in SimCity BuildIt.
