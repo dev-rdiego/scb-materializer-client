@@ -1,47 +1,56 @@
-# Astro Starter Kit: Minimal
+# SimCity BuildIt Materializer
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Welcome to SimCity BuildIt Materializer, a powerful tool for calculating and managing raw materials required for crafting in SimCity BuildIt.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+This is an [Astro](https://astro.build/) project bootstrapped with `npm create astro@latest`.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Features
 
-## 🚀 Project Structure
+- Calculate material requirements for any crafted item in SimCity BuildIt.
+- Efficiently manage and plan your resources for optimal crafting output.
+- Intuitive interface for easy navigation and quick calculations.
+- Stay organized with detailed breakdowns of materials, quantities and total time needed.
 
-Inside of your Astro project, you'll see the following folders and files:
+## How to Use
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+<!-- TODO: Complete documentation on "How to use" -->
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Contribution Guidelines
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+We welcome contributions from the community! Whether you're a developer, designer, or SimCity enthusiast, feel free to contribute by submitting bug reports, feature requests, or code enhancements.
 
-Any static assets, like images, can be placed in the `public/` directory.
+To contribute:
 
-## 🧞 Commands
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/[name]`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature/[name]`.
+5. Open a pull request.
 
-All commands are run from the root of the project, from a terminal:
+## Hosted
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+<!-- 
+    TODO: Host app when v1.0 is released
+The SimCity BuildIt Materializer is hosted [here!](https://your-hosted-url.com). Feel free to visit and use the application online. -->
 
-## 👀 Want to learn more?
+## Roadmap
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Our planned features and improvements for the future include:
+
+- ### Task Planning Center
+
+    Effortlessly manage your to-do lists and tasks in one place. Streamline your day with our intuitive Task Hub feature, designed for seamless organization and productivity.
+
+- ### Special Objects Supoort
+
+    Support for items that include airport or antoher lands items.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [SimCity BuildIt](https://www.ea.com/en-gb/games/simcity/simcity-buildit) - Base game for city-building and crafting management.
+
+Happy crafting in SimCity BuildIt with SimCity BuildIt Materializer!
